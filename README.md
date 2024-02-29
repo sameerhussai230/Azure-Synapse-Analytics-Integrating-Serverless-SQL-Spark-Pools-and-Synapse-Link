@@ -17,7 +17,7 @@ The project extends its capabilities by seamlessly querying Cosmos DB data in Az
 
 ### Utilizing Serverless SQL Pool for Efficient Data Querying
 
-To efficiently query this data, the project utilizes the Serverless SQL pool in Azure Synapse Analytics. Leveraging the OpenRowSet function, the project directly queries files stored in the raw folder of the Data Lake, enabling efficient data retrieval and analysis.
+To efficiently query this data, the project utilizes the Serverless SQL pool in Azure Synapse Analytics. Leveraging the OpenRowSet function, to directly queries files stored in the raw folder of the Data Lake, enabling efficient data retrieval and analysis.
 
 ![image](https://github.com/sameerhussai230/Unified_Data_Processing_Framework_on_Azure_Synapse/assets/85198601/93410a28-2781-40a4-8079-c96bcbfdfa44)
  
