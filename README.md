@@ -1,6 +1,6 @@
 # Unified_Data_Processing_Framework_on_Azure_Synapse: Integrating Serverless SQL, Spark Pools, and Synapse Link
 
-##Project Overview 
+## Project Overview 
 
 The project begins by sourcing data from the NYC Taxi website (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page), which provides a diverse range of files crucial for analysis. The files are converted into CSV, JSON, TSV and Parquet formats to facilitate real data engineering tasks, containing detailed information about New York City taxi trips, including trip duration, zones, and payment types. To efficiently query this data, the project utilizes the Serverless SQL pool in Azure Synapse Analytics, leveraging the OpenRowSet function to directly query files stored in the raw folder of the Data Lake. Data pruning techniques are applied using the filename() function to optimize queries and improve performance.
 
