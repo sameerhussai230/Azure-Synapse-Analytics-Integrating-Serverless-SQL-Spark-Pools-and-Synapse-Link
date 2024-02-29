@@ -1,4 +1,4 @@
-# Unified_Data_Processing_Framework_on_Azure_Synapse: Integrating Serverless SQL, Spark Pools, and Synapse Link
+# Azure Synapse Analytics Integrating Serverless SQL, Spark Pools, and Synapse Link
 
 ## Project Overview 
 
